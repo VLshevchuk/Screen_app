@@ -11,7 +11,7 @@ class ImageOpenPage extends StatelessWidget {
     double mediaHeight = MediaQuery.of(context).size.height;
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Open the Image'),
+        title: const Text('Open the Image___'),
       ),
       body: Padding(
         padding: const EdgeInsets.only(top: 15, left: 10),
